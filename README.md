@@ -1,4 +1,4 @@
-## Conformal training
+## Rank Calibrated Class-conditional Conformal Prediction (RC3P)
 
 This repository contains a implementation of **RC3P**
 corresponding to the follow paper:
@@ -95,3 +95,7 @@ chmod +x train/food_train.sh
 chmod +x test/test_aps2.sh
 ./test/test_aps2.sh
 ```
+
+### Acknowledgements
+
+Part of this code is inspired by [tiffanyding/class-conditional-conformal](https://github.com/tiffanyding/class-conditional-conformal).
